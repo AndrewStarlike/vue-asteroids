@@ -1,4 +1,5 @@
 # asteroids
+Basic Vue JS app that fetches NASA API and gets near earth objects.
 
 ## Project setup
 ```
